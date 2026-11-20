@@ -4,10 +4,6 @@
 
 I work in managed services, which means I see the same problems across many environments: noisy alerts, monitoring gaps, inconsistent landing zones, and security signals nobody is acting on. This GitHub is where I share the patterns, queries, and tooling that solve them — generalized, tested, and free to use.
 
-<!--
-  TODO: adjust the line above if your role/title differs.
--->
-
 ---
 
 ## 🔭 What I work on
@@ -17,17 +13,18 @@ I work in managed services, which means I see the same problems across many envi
 - **Azure networking** — hub-spoke, Azure Firewall, Private Link, hybrid connectivity
 - **Infrastructure as Code** — Bicep, Terraform, Azure DevOps & GitHub Actions pipelines
 
-## 🚀 Featured projects
-
 <!--
-  Replace these placeholders as each repo goes live. Keep 3–6 entries; pin the same repos on your profile.
--->
+  Featured projects — uncomment and move each row out of this comment as its repo goes live.
+  Keep 3–6 entries; pin the same repos on your profile.
+
+## 🚀 Featured projects
 
 | Project | What it is |
 |---|---|
 | [azure-alerting-playbook](https://github.com/saeedonweb/azure-alerting-playbook) | Practical patterns for reducing Azure alert noise — AMBA rollout, dynamic thresholds, alert processing rules (Bicep & Terraform) |
 | [kql-security-queries](https://github.com/saeedonweb/kql-security-queries) | Curated, tested KQL for Sentinel, Defender & Log Analytics, mapped to MITRE ATT&CK |
 | [scom-to-azure-monitor](https://github.com/saeedonweb/scom-to-azure-monitor) | Mapping guides and KQL equivalents for migrating SCOM monitoring to Azure Monitor |
+-->
 
 ## 🤝 Community
 
@@ -52,17 +49,34 @@ I work in managed services, which means I see the same problems across many envi
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-<!--
-  Optional: add certification badges here (e.g. AZ-104, AZ-305, AZ-500, SC-200) — only ones you actually hold.
-  Credly badge links work well.
--->
+## 🎓 Certifications
+
+![CISSP](https://img.shields.io/badge/CISSP-ISC2-0E4C92?style=flat)
+![Cybersecurity Architect Expert](https://img.shields.io/badge/Cybersecurity_Architect_Expert-SC--100-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Azure Solutions Architect Expert](https://img.shields.io/badge/Azure_Solutions_Architect-Expert-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft 365 Administrator Expert](https://img.shields.io/badge/Microsoft_365_Administrator-Expert-D83B01?style=flat&logo=microsoft&logoColor=white)
+
+**Microsoft** — [verify on Microsoft Learn](https://learn.microsoft.com/users/saeedsheikh/credentials)
+- Cybersecurity Architect Expert (SC-100)
+- Azure Solutions Architect Expert
+- Microsoft 365 Administrator Expert
+- Azure Security Engineer Associate (AZ-500)
+- Security Operations Analyst Associate (SC-200)
+- Identity and Access Administrator Associate (SC-300)
+- Azure Administrator Associate
+- Azure AI Fundamentals (AI-900)
+- Applied Skills: Configure SIEM security operations using Microsoft Sentinel
+
+**Industry**
+- CISSP — Certified Information Systems Security Professional (ISC2)
+- CompTIA Security+ CE
+- VMware Certified Professional – Data Center Virtualization (VCP6-DCV)
 
 ## 📫 Connect
 
-<!-- TODO: fill in the links you want public, delete the rest. -->
-- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE)
-- Blog: [YOUR-BLOG-URL](https://YOUR-BLOG-URL)
-- Microsoft Learn profile: [learn.microsoft.com/users/YOUR-HANDLE](https://learn.microsoft.com/users/YOUR-HANDLE)
+- Blog: [saeedsheikh.com](https://saeedsheikh.com)
+- LinkedIn: [linkedin.com/in/saeedonweb](https://www.linkedin.com/in/saeedonweb)
+- Microsoft Learn: [learn.microsoft.com/users/saeedsheikh](https://learn.microsoft.com/users/saeedsheikh/)
 
 ---
 
