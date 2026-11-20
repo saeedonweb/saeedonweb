@@ -1,6 +1,6 @@
 # Hi, I'm Saeed 👋
 
-**Azure cloud & security engineer** helping organizations run Azure reliably and securely — with a focus on **monitoring & observability, cloud security, networking, and Infrastructure as Code**.
+**Cloud security architect — Azure, Microsoft security & monitoring.** I help organizations run Azure reliably and securely, with a focus on **monitoring & observability, cloud security, networking, and Infrastructure as Code**.
 
 I work in managed services, which means I see the same problems across many environments: noisy alerts, monitoring gaps, inconsistent landing zones, and security signals nobody is acting on. This GitHub is where I share the patterns, queries, and tooling that solve them — generalized, tested, and free to use.
 
