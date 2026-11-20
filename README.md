@@ -51,26 +51,32 @@ I work in managed services, which means I see the same problems across many envi
 
 ## 🎓 Certifications
 
-![CISSP](https://img.shields.io/badge/CISSP-ISC2-0E4C92?style=flat)
-![Cybersecurity Architect Expert](https://img.shields.io/badge/Cybersecurity_Architect_Expert-SC--100-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Azure Solutions Architect Expert](https://img.shields.io/badge/Azure_Solutions_Architect-Expert-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Microsoft 365 Administrator Expert](https://img.shields.io/badge/Microsoft_365_Administrator-Expert-D83B01?style=flat&logo=microsoft&logoColor=white)
-
 **Microsoft** — [verify on Microsoft Learn](https://learn.microsoft.com/users/saeedsheikh/credentials)
-- Cybersecurity Architect Expert (SC-100)
-- Azure Solutions Architect Expert
-- Microsoft 365 Administrator Expert
-- Azure Security Engineer Associate (AZ-500)
-- Security Operations Analyst Associate (SC-200)
-- Identity and Access Administrator Associate (SC-300)
-- Azure Administrator Associate
-- Azure AI Fundamentals (AI-900)
+
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="90" alt="Microsoft Certified Expert badge"><br><sub><b>Cybersecurity Architect Expert</b><br>SC-100</sub></td>
+    <td align="center" width="25%"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="90" alt="Microsoft Certified Expert badge"><br><sub><b>Azure Solutions Architect Expert</b></sub></td>
+    <td align="center" width="25%"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="90" alt="Microsoft Certified Expert badge"><br><sub><b>Microsoft 365 Administrator Expert</b></sub></td>
+    <td align="center" width="25%"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="90" alt="Microsoft Certified Fundamentals badge"><br><sub><b>Azure AI Fundamentals</b><br>AI-900</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90" alt="Microsoft Certified Associate badge"><br><sub><b>Azure Security Engineer Associate</b><br>AZ-500</sub></td>
+    <td align="center"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90" alt="Microsoft Certified Associate badge"><br><sub><b>Security Operations Analyst Associate</b><br>SC-200</sub></td>
+    <td align="center"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90" alt="Microsoft Certified Associate badge"><br><sub><b>Identity and Access Administrator Associate</b><br>SC-300</sub></td>
+    <td align="center"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90" alt="Microsoft Certified Associate badge"><br><sub><b>Azure Administrator Associate</b></sub></td>
+  </tr>
+</table>
+
 - Applied Skills: Configure SIEM security operations using Microsoft Sentinel
 
-**Industry**
+**Industry** — [verify on Credly](https://www.credly.com/users/saeed-sheikh)
+
+<a href="https://www.credly.com/badges/4498df62-caab-47ad-8776-25a3a5e5c2cb/public_url"><img src="https://images.credly.com/size/340x340/images/de7e10b8-25a9-420b-834c-1e9cffd3b2fa/image.png" width="110" alt="ISC2 CISSP badge"></a>
+
 - CISSP — Certified Information Systems Security Professional (ISC2)
-- CompTIA Security+ CE
-- VMware Certified Professional – Data Center Virtualization (VCP6-DCV)
+
+<sub>Previously held: CompTIA Security+ CE, VMware VCP6-DCV & VCP-NV</sub>
 
 ## 📫 Connect
 
