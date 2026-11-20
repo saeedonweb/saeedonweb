@@ -82,6 +82,7 @@ I work in managed services, which means I see the same problems across many envi
 
 - Blog: [saeedsheikh.com](https://saeedsheikh.com)
 - LinkedIn: [linkedin.com/in/saeedonweb](https://www.linkedin.com/in/saeedonweb)
+- X: [@saeedonweb](https://x.com/saeedonweb)
 - Microsoft Learn: [learn.microsoft.com/users/saeedsheikh](https://learn.microsoft.com/users/saeedsheikh/)
 
 ---
